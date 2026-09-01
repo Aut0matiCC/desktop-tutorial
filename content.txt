@@ -1,0 +1,510 @@
+ONE TRUST SERVICES - WEBSITE CONTENT
+=====================================
+Company: One Trust Services (OT Services)
+Owner/Proprietor: Ronak M. Chaudhary
+Tagline: Engineering Trust. Delivering Infrastructure.
+Structure: Proprietorship | Established 2023
+Address: Sundry Shop No. 09/10, Outside New Gunj Bazar, Behind Rockway
+Gym, Dairy Road, Palanpur – 385001, Gujarat
+
+NOTE TO BUILDER: Only the facts below are confirmed. Do not add years-of-
+experience claims, project counts, client logos, or testimonials - none
+were supplied. Where the design calls for a photo, use a labeled
+placeholder instead.
+
+-------------------------------------------------------------------------
+PAGE 1 - HOME
+-------------------------------------------------------------------------
+
+[Hero]
+Eyebrow: ENGINEERING CONSULTANCY
+H1: One Trust Services
+Tagline: Engineering Trust. Delivering Infrastructure.
+Subhead: A highway and infrastructure engineering consultancy providing
+DPR preparation, survey, design, and project management services for
+roads, bridges, and public infrastructure across Gujarat.
+CTA 1: Request a Consultation
+CTA 2: Explore Our Services
+
+[Trust strip]
+Serving: Roads & Buildings Department · Irrigation Department ·
+Municipalities · Panchayat Department
+
+[Section: What We Do]
+Eyebrow: OUR EXPERTISE
+Heading: End-to-end engineering consultancy, from survey to structure
+Body: From the first topographic survey to the final quality inspection,
+One Trust Services supports public infrastructure projects at every
+stage - highway DPR preparation, geomatics and survey, hydraulic
+structure design, project management, third-party inspection, traffic
+studies, pavement design, and structural health assessment.
+
+Service cards (6, link to detail pages):
+1. Highway DPR Preparation - Detailed Project Reports, feasibility
+   studies, and tender documentation for road and highway projects.
+2. Survey & Geomatics - LiDAR, DGPS, topographical and utility surveys
+   with GIS-based mapping and digital terrain modelling.
+3. PMC – Project Management Consultancy - Construction supervision,
+   quality monitoring, and project reporting from start to finish.
+4. TPI – Third Party Inspection - Independent quality, material, and
+   compliance inspection for infrastructure works.
+5. Hydraulic Structures Design - Culverts, causeways, minor bridges, and
+   drainage structures backed by hydraulic and hydrological studies.
+6. Traffic, Pavement & Structural Assessment - Traffic studies, pavement
+   design, and structural health assessment in one integrated service.
+
+[Section: Sectors We Serve]
+Eyebrow: WHO WE WORK WITH
+Heading: Trusted across government infrastructure
+Body: We work with departments and municipal bodies responsible for
+public infrastructure - bringing the same technical rigor to every
+project, regardless of scale.
+- Roads & Buildings (R&B) Department - Highway, road, bridge and
+  infrastructure consultancy services.
+- Irrigation Department - Hydraulic structures, drainage, survey and
+  related engineering services.
+- Municipalities - Urban infrastructure, roads, drainage, traffic and
+  technical consultancy.
+- Panchayat Department - Rural roads, infrastructure development,
+  surveys and engineering consultancy.
+CTA: See how we support your department →  (links to Sectors & Contact)
+
+[Section: Why One Trust Services]
+Eyebrow: OUR APPROACH
+Heading: Precision at every stage of the project lifecycle
+Body: One Trust Services is built around a simple principle - that
+reliable infrastructure starts with rigorous engineering. From detailed
+field surveys to final structural assessment, every deliverable is
+prepared to stand up to technical and regulatory scrutiny.
+Three pillars (short, no invented stats):
+1. Technical Rigor - Engineering-grade surveys, studies, and designs
+   prepared to departmental standards.
+2. Full-Cycle Support - From DPR preparation through construction
+   supervision to final inspection.
+3. Sector Understanding - Work shaped around the real requirements of
+   R&B, Irrigation, Municipal, and Panchayat projects.
+
+[Closing CTA band]
+Heading: Have a project in mind?
+Body: Talk to us about your highway, road, or infrastructure
+consultancy requirement.
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 2 - ABOUT US
+-------------------------------------------------------------------------
+
+Eyebrow: ABOUT ONE TRUST SERVICES
+H1: Engineering trust, one project at a time
+Intro: One Trust Services is a Palanpur-based engineering consultancy
+providing highway, survey, design, and project management services for
+public infrastructure. Established in 2023 as a proprietorship under
+Ronak M. Chaudhary, the firm works across Roads & Buildings, Irrigation,
+Municipal, and Panchayat projects.
+
+[Company facts strip - facts only, no invented numbers]
+- Established: 2023
+- Structure: Proprietorship
+- Proprietor: Ronak M. Chaudhary
+- Location: Palanpur, Gujarat
+
+[Founder block - photo placeholder]
+[PHOTO PLACEHOLDER: Ronak M. Chaudhary - client to provide]
+Heading: Led by Ronak M. Chaudhary
+Body: One Trust Services is led by Ronak M. Chaudhary, offering
+engineering consultancy across highway DPR preparation, survey and
+geomatics, hydraulic structures, project management, third-party
+inspection, traffic studies, pavement design, and structural health
+assessment.
+
+[Section: What We Believe]
+Heading: Our approach to every project
+Body: Public infrastructure projects carry a responsibility that goes
+beyond the drawing board - every survey, design, and inspection feeds
+into something that people will depend on for years. One Trust Services
+approaches each engagement with that responsibility in mind: thorough
+fieldwork, careful documentation, and designs and assessments prepared
+to the standards departmental review demands.
+
+[Section: What We Do - summary linking to Services]
+Heading: A full-service infrastructure consultancy
+Body: One Trust Services supports projects across their full lifecycle -
+from the first topographical survey and DPR preparation, through
+hydraulic and pavement design, to construction-stage project management,
+third-party inspection, and structural health assessment.
+Link: View All Services →
+
+[Section: Sectors]
+Heading: Who we work with
+Body: Roads & Buildings Department, Irrigation Department, Municipalities,
+and Panchayat Department.
+Link: See Sectors We Serve →
+
+[CTA band]
+Heading: Let's discuss your infrastructure project
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 3 - SERVICES OVERVIEW
+-------------------------------------------------------------------------
+
+Eyebrow: OUR SERVICES
+H1: Engineering consultancy, start to finish
+Intro: One Trust Services offers eight specialised service areas,
+grouped into six core practice areas - covering the full lifecycle of a
+road or infrastructure project, from initial survey to final structural
+assessment.
+
+[Service Card 1]
+Icon: road/document
+Name: Highway DPR Preparation
+Description: Detailed Project Report preparation, road inventory and
+condition assessment, alignment and feasibility studies, detailed
+engineering and estimates, and BOQ/tender documentation.
+Link: Learn more → /services/highway-dpr
+
+[Service Card 2]
+Icon: satellite/survey
+Name: Survey & Geomatics
+Description: LiDAR survey, DGPS survey, topographical survey, road and
+alignment survey, utility survey, digital terrain modelling, and
+GIS-based mapping and analysis.
+Link: Learn more → /services/survey-geomatics
+
+[Service Card 3]
+Icon: bridge/water
+Name: Hydraulic Structures Design
+Description: Culvert design, causeways, minor bridges, drainage
+structures, cross-drainage works, and hydraulic and hydrological
+studies.
+Link: Learn more → /services/hydraulic-structures
+
+[Service Card 4]
+Icon: clipboard/checklist
+Name: PMC – Project Management Consultancy
+Description: Construction supervision, quality monitoring, progress
+monitoring, measurement and documentation, contractor coordination, and
+project reporting.
+Link: Learn more → /services/pmc
+
+[Service Card 5]
+Icon: magnifier/inspection
+Name: TPI – Third Party Inspection
+Description: Quality inspection, material inspection, workmanship
+assessment, site verification, compliance monitoring, and technical
+reporting.
+Link: Learn more → /services/tpi
+
+[Service Card 6]
+Icon: traffic/layers
+Name: Traffic, Pavement & Structural Assessment
+Description: Traffic volume studies and analysis, flexible pavement
+design and rehabilitation, and structural health assessment for
+existing infrastructure.
+Link: Learn more → /services/traffic-pavement-structural
+
+[Closing section]
+Heading: Not sure which service you need?
+Body: Every project is different. Tell us about your requirement and
+we'll help you scope the right service.
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 4 - HIGHWAY DPR PREPARATION
+-------------------------------------------------------------------------
+
+Eyebrow: SERVICE
+H1: Highway DPR Preparation
+Intro: End-to-end Detailed Project Report preparation for highway and
+road projects - from condition assessment through to tender-ready
+documentation.
+
+[What's Included]
+- Detailed Project Report (DPR) preparation
+- Road inventory and condition assessment
+- Alignment studies
+- Feasibility studies
+- Detailed engineering and estimates
+- BOQ and tender documentation
+
+[Section: Why It Matters]
+Body: A well-prepared DPR is the foundation of every successful highway
+project - it determines feasibility, guides design decisions, and forms
+the basis for budgeting, approvals, and tendering. One Trust Services
+prepares DPRs built on thorough field assessment and engineering
+analysis, ready to support departmental review and tender processes.
+
+[Who This Is For]
+Body: Relevant to Roads & Buildings Department and Panchayat Department
+projects involving new road construction, widening, or rehabilitation.
+
+[Related Services]
+- Survey & Geomatics
+- Traffic, Pavement & Structural Assessment
+- PMC – Project Management Consultancy
+
+[CTA band]
+Heading: Starting a highway or road project?
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 5 - SURVEY & GEOMATICS
+-------------------------------------------------------------------------
+
+Eyebrow: SERVICE
+H1: Survey & Geomatics
+Intro: Precise field survey and geospatial data services that form the
+technical foundation for every design and assessment we deliver.
+
+[What's Included]
+- LiDAR Survey
+- DGPS Survey
+- Topographical survey
+- Road and alignment survey
+- Utility survey
+- Digital terrain modelling
+- GIS-based mapping and analysis
+
+[Section: Why It Matters]
+Body: Accurate survey data underpins every downstream decision - from
+alignment studies to hydraulic and structural design. One Trust
+Services combines modern survey technology with GIS-based analysis to
+deliver terrain and utility data that design teams can rely on.
+
+[Who This Is For]
+Body: Used across DPR preparation, hydraulic structure design, pavement
+design, and any project requiring precise terrain, alignment, or
+utility mapping.
+
+[Related Services]
+- Highway DPR Preparation
+- Hydraulic Structures Design
+- Traffic, Pavement & Structural Assessment
+
+[CTA band]
+Heading: Need accurate survey and terrain data?
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 6 - HYDRAULIC STRUCTURES DESIGN
+-------------------------------------------------------------------------
+
+Eyebrow: SERVICE
+H1: Hydraulic Structures Design
+Intro: Engineering design of culverts, causeways, minor bridges, and
+drainage structures, backed by detailed hydraulic and hydrological
+studies.
+
+[What's Included]
+- Culvert design
+- Causeways
+- Minor bridges
+- Drainage structures
+- Cross-drainage works
+- Hydraulic and hydrological studies
+
+[Section: Why It Matters]
+Body: Hydraulic structures have to perform reliably under real-world
+flow and flood conditions. One Trust Services designs culverts,
+causeways, minor bridges, and drainage works grounded in proper
+hydraulic and hydrological analysis, not standard-size assumptions.
+
+[Who This Is For]
+Body: Particularly relevant to Irrigation Department projects and any
+road project requiring cross-drainage or drainage structure design.
+
+[Related Services]
+- Survey & Geomatics
+- Highway DPR Preparation
+- Traffic, Pavement & Structural Assessment
+
+[CTA band]
+Heading: Planning a drainage or hydraulic structure?
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 7 - PMC – PROJECT MANAGEMENT CONSULTANCY
+-------------------------------------------------------------------------
+
+Eyebrow: SERVICE
+H1: PMC – Project Management Consultancy
+Intro: On-ground project management support that keeps construction
+quality, progress, and documentation on track from start to finish.
+
+[What's Included]
+- Construction supervision
+- Quality monitoring
+- Progress monitoring
+- Measurement and documentation
+- Contractor coordination
+- Project reporting
+
+[Section: Why It Matters]
+Body: Design quality only translates into built quality with careful
+supervision. One Trust Services provides construction-stage project
+management - supervising work, monitoring quality and progress, and
+maintaining the measurement records and reporting departments require.
+
+[Who This Is For]
+Body: Relevant across all four sectors - R&B, Irrigation, Municipal,
+and Panchayat projects - during the construction phase.
+
+[Related Services]
+- TPI – Third Party Inspection
+- Highway DPR Preparation
+- Traffic, Pavement & Structural Assessment
+
+[CTA band]
+Heading: Need on-site project management support?
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 8 - TPI – THIRD PARTY INSPECTION
+-------------------------------------------------------------------------
+
+Eyebrow: SERVICE
+H1: TPI – Third Party Inspection
+Intro: Independent, unbiased inspection to verify that materials,
+workmanship, and site execution meet the required standards.
+
+[What's Included]
+- Quality inspection
+- Material inspection
+- Workmanship assessment
+- Site verification
+- Compliance monitoring
+- Technical reporting
+
+[Section: Why It Matters]
+Body: Independent verification protects both the department and the
+project. One Trust Services conducts third-party inspection of
+materials, workmanship, and site conditions, with clear technical
+reporting to support compliance and quality assurance.
+
+[Who This Is For]
+Body: Relevant wherever a department or municipal body requires
+independent quality verification on an active construction project.
+
+[Related Services]
+- PMC – Project Management Consultancy
+- Traffic, Pavement & Structural Assessment
+- Hydraulic Structures Design
+
+[CTA band]
+Heading: Need independent quality verification?
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 9 - TRAFFIC, PAVEMENT & STRUCTURAL ASSESSMENT
+-------------------------------------------------------------------------
+
+Eyebrow: SERVICE
+H1: Traffic, Pavement & Structural Assessment
+Intro: Traffic studies, pavement design, and structural health
+assessment - the engineering analysis that determines how a road or
+structure should be designed, strengthened, or rehabilitated.
+
+[What's Included - grouped in three sub-sections]
+
+Traffic Studies
+- Traffic volume studies
+- Classified traffic counts
+- Axle load surveys
+- Origin-Destination studies
+- Speed studies
+- Traffic analysis and projections
+
+Pavement Design
+- Flexible pavement design
+- Pavement evaluation
+- Strengthening and rehabilitation design
+- Pavement condition assessment
+- Overlay design
+
+Structural Health Assessment
+- Detailed visual inspection
+- Structural condition assessment
+- NDT coordination/testing
+- Defect identification
+- Structural evaluation
+- Rehabilitation and strengthening recommendations
+
+[Section: Why It Matters]
+Body: Traffic loading, pavement condition, and structural health are
+closely linked - understanding all three gives a complete picture of
+what a road or structure needs, whether that's a new design, an
+overlay, or a strengthening plan. One Trust Services delivers this
+analysis as an integrated service.
+
+[Who This Is For]
+Body: Relevant to road widening and rehabilitation projects, existing
+bridge and structure assessments, and any project requiring traffic
+data to support design decisions.
+
+[Related Services]
+- Highway DPR Preparation
+- Hydraulic Structures Design
+- TPI – Third Party Inspection
+
+[CTA band]
+Heading: Need a traffic, pavement, or structural assessment?
+Button: Request a Consultation
+
+-------------------------------------------------------------------------
+PAGE 10 - SECTORS WE SERVE & CONTACT
+-------------------------------------------------------------------------
+
+Eyebrow: SECTORS WE SERVE
+H1: Built for the departments we serve
+
+[Sector Card 1]
+Name: Roads & Buildings (R&B) Department
+Description: Highway, road, bridge and infrastructure consultancy
+services.
+
+[Sector Card 2]
+Name: Irrigation Department
+Description: Hydraulic structures, drainage, survey and related
+engineering services.
+
+[Sector Card 3]
+Name: Municipalities
+Description: Urban infrastructure, roads, drainage, traffic and
+technical consultancy.
+
+[Sector Card 4]
+Name: Panchayat Department
+Description: Rural roads, infrastructure development, surveys and
+engineering consultancy.
+
+-------------------------------------------------------------------------
+[Contact section]
+
+Eyebrow: GET IN TOUCH
+H1: Let's discuss your project
+Intro: Reach out to One Trust Services for highway, survey, design, or
+project management consultancy support.
+
+[Office details]
+ONE TRUST SERVICES
+Engineering Trust. Delivering Infrastructure.
+Sundry Shop No. 09/10, Outside New Gunj Bazar,
+Behind Rockway Gym, Dairy Road,
+Palanpur – 385001, Gujarat
+Proprietorship | Established 2023
+
+[Contact form fields]
+- Full Name
+- Organization / Department
+- Email
+- Phone
+- Service of Interest (dropdown: the six services)
+- Message
+- Submit button: "Send Message"
+
+[Map]
+Embed: Google Map centered on the above address.
+
+[Closing line]
+Body: We aim to respond to every enquiry promptly. For urgent project
+requirements, please call or write to us directly.

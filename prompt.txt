@@ -1,0 +1,97 @@
+PROJECT BRIEF - ONE TRUST SERVICES WEBSITE
+============================================
+Build a premium, professional 10-page marketing website for a highway &
+infrastructure engineering consultancy called ONE TRUST SERVICES (OT
+Services). This is a B2B/B2G lead-generation site - the primary audience is
+government departments (R&B, Irrigation, Municipalities, Panchayat) and
+infrastructure contractors evaluating a technical consultancy for tender
+and project work. The site must read as credible, technically serious,
+and trustworthy - NOT like a generic startup landing page.
+
+Use content.txt for all copy and design.md for the full visual system.
+Do not invent services, credentials, or claims that are not present in
+content.txt.
+
+TECH STACK
+----------
+- React (Vite) + Tailwind CSS
+- React Router for the 10 pages listed below
+- Framer Motion for scroll-reveal and micro-interactions (subtle, not
+  flashy - this is an engineering firm, not a nightclub)
+- Fully responsive: mobile, tablet, desktop
+- Icons: lucide-react
+- No CMS needed - content is static, sourced from content.txt
+
+SITE MAP (10 pages)
+--------------------
+1. Home (/)
+2. About Us (/about)
+3. Services Overview (/services)
+4. Highway DPR Preparation (/services/highway-dpr)
+5. Survey & Geomatics (/services/survey-geomatics)
+6. Hydraulic Structures Design (/services/hydraulic-structures)
+7. PMC – Project Management Consultancy (/services/pmc)
+8. TPI – Third Party Inspection (/services/tpi)
+9. Traffic, Pavement & Structural Assessment (/services/traffic-pavement-structural)
+10. Sectors We Serve & Contact (/contact)
+
+Services 4–9 are detail pages reached from cards on the Services Overview
+page (3) and from the mega-menu / dropdown in the header. Each detail page
+follows the shared "service detail template" described in design.md.
+
+GLOBAL REQUIREMENTS
+--------------------
+- Sticky header with logo (provided logo file - orange/red-to-blue "OT"
+  mark with a stylised highway sweeping through it), primary nav, and a
+  prominent "Request a Consultation" CTA button.
+- Services in the nav should be a dropdown/mega-menu listing all 6 service
+  detail pages so a visitor can jump directly to what they need.
+- Footer present on every page: company name, tagline, address, sector
+  list, quick links to all 10 pages, and a copyright line.
+- A road/highway line motif (echoing the logo) should recur as a subtle
+  section divider or background element across pages - see design.md for
+  exact treatment. Do not overuse it; it should feel like a signature
+  detail, not wallpaper.
+- Every service detail page must end with a "Related Services" strip
+  (2–3 other services) and a contact CTA - the goal is to keep a visitor
+  moving through the site toward the Contact page.
+- Use real placeholder-safe patterns for imagery: since no photos have
+  been supplied yet, use engineering-appropriate abstract/technical
+  imagery (topographic contour lines, blueprint grids, road cross-section
+  diagrams, survey grid dots) rendered in CSS/SVG rather than stock photos
+  of generic "business people." Where a photo would normally go, leave a
+  clearly labeled placeholder the client can swap in later (e.g. site
+  photos, team photo, project photos).
+- Do not fabricate client logos, project photos, testimonials, numeric
+  stats, or certifications that are not present in content.txt. If a
+  section conventionally expects these (e.g. "Our Clients," "Testimonials"),
+  either omit it or clearly mark it as a placeholder block the client can
+  fill in later - never invent fake ones.
+- All forms (contact form, "Request a Consultation") should be built as
+  functional front-end forms with client-side validation; wire the submit
+  handler to a placeholder function clearly marked for the client's
+  backend/email integration (e.g. Formspree, EmailJS, or a serverless
+  endpoint) - do not fabricate a working backend.
+- SEO basics: unique <title> and meta description per page, semantic
+  heading hierarchy (one H1 per page), alt text on all images/icons that
+  convey meaning.
+- Performance: lazy-load below-the-fold sections, optimize any SVG/CSS
+  animation for low-end devices, avoid layout shift.
+
+BUILD ORDER
+-----------
+1. Set up the project, Tailwind config with the color/type tokens from
+   design.md, and the shared layout (Header, Footer, PageWrapper).
+2. Build the Home page fully.
+3. Build About Us and the Services Overview page.
+4. Build the shared service-detail template, then populate all six
+   service detail pages from content.txt.
+5. Build Sectors We Serve & Contact.
+6. Pass over every page for responsive behavior, motion polish, and the
+   recurring road-motif detail.
+7. Final QA: check every internal link, every CTA, and every meta tag.
+
+Ask the client (via a short summary at the end of your build) for: the
+high-resolution logo file, real site/project photography, a team photo,
+and any client/department logos they're permitted to display - these are
+the only assets the site should need once built.
